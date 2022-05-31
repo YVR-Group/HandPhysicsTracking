@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BouncyRoom.unity
+    guid: 662396288fc97844787b039c9484c483
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 74b7240c68233b94dbbfe93b0ccf1333, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 48f7637914f8e4e4286ab52d13321dbd, type: 2}
